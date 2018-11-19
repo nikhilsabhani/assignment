@@ -1,0 +1,44 @@
+.login
+{
+	width:400px;
+	height: 300px;
+	margin:0 auto;
+	margin-top:50px;
+	/*border:1px solid black;*/
+}
+.login_row
+{
+	width:400px;
+	height: 98px;
+	margin:0 auto;
+	text-align:center;
+
+}
+
+.lg_tx
+{
+	width:200px;
+	height:25px;
+	border-radius:10px;
+	margin-top:20px;
+}
+
+.lg_bt
+{
+	width:100px;
+	height:40px;
+	background-color:#0099FF;
+	color:white;
+	font-weight:bold;
+	margin-top:20px;
+}
+
+.lg_bt:hover
+{
+	width:100px;
+	height:40px;
+	background-color:#0099FF;
+	color:black;
+	margin-top:20px;
+	font-weight:bold;
+}
